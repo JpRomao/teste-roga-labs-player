@@ -15,6 +15,7 @@
 
 <ul>
   <li>HTML</li>
+  <li>Javascript</li>
   <li>Typescript</li>
   <li>CSS</li>
 </ul>
