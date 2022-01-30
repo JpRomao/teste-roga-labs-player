@@ -1,0 +1,13 @@
+.App {
+  height: 100%;
+}
+
+.App main {
+  height: 100%;
+}
+
+.albumsContainer {
+  width: 100%;
+  padding: 1.4rem;
+  padding-bottom: 150px;
+}
